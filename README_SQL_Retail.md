@@ -644,9 +644,9 @@ Contributions are welcome! Here's how you can help:
 
 **Vinay Sai (Bandela Vinay Babu)**
 
-- GitHub: [@vinaysai7](https://github.com/vinaysai7)
-- LinkedIn: [Bandela Vinay Babu](https://www.linkedin.com/in/bandela-vinay-babu)
-- Project Link: [SQL Retail Sales Analysis](https://github.com/vinaysai7/SQL_Reatil_Sales_Project1)
+- GitHub: [@saibandela](https://github.com/saibandela)
+- LinkedIn: [Bandela Saibabu](https://www.linkedin.com/in/saibabu-bandela)
+- Project Link: [SQL Retail Sales Analysis](https://github.com/saibandela/SQL_Reatil_Sales_Project)
 
 ## 📄 License
 
@@ -661,7 +661,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support & Feedback
 
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/vinaysai7/SQL_Reatil_Sales_Project1/issues)
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/saibandela/SQL_Reatil_Sales_Project/issues)
 - 💡 **Suggestions**: Open a discussion or pull request
 - 📧 **Contact**: Reach out via LinkedIn
 
