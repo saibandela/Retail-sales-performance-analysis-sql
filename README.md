@@ -112,7 +112,7 @@ This project demonstrates the ability to translate raw data into actionable busi
 
 ## 👤 Author
 
-**Vinay Sai**  
+**Sai Bandela**  
 Data Analyst | SQL | Business Intelligence
 
 - [GitHub](https://github.com/saibandela)
