@@ -98,6 +98,8 @@ This analysis demonstrates how structured SQL queries can transform raw transact
 
 The project highlights proficiency in database design, data cleaning, advanced SQL techniques, and translating technical findings into actionable business recommendations.
 
+This project demonstrates the ability to translate raw data into actionable business decisions using SQL.
+
 ---
 
 ## 📂 Repository Contents
@@ -113,8 +115,8 @@ The project highlights proficiency in database design, data cleaning, advanced S
 **Vinay Sai**  
 Data Analyst | SQL | Business Intelligence
 
-- [GitHub](https://github.com/vinaysai7)
-- [LinkedIn](https://www.linkedin.com/in/bandela-vinay-babu)
+- [GitHub](https://github.com/saibandela)
+- [LinkedIn](https://www.linkedin.com/in/saibabu-bandela)
 
 ---
 
